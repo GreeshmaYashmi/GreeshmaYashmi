@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GREESHMA YASHMI </h1>
 
 <p align="center">  
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20enthusiast,%20ML%20obsessed%20👩‍💻;Diving%20deep%20into%20data%20and%20defense%20🔍;Turning%20algorithms%20into%20fortresses%20🛡️;&center=true&width=570&height=45&color=F8F8FF" /> 
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20enthusiast,%20ML%20obsessed%20🔮;Diving%20deep%20into%20data%20and%20defense%20🔍;Turning%20algorithms%20into%20fortresses%20🛡️;&center=true&width=570&height=45&color=F8F8FF" /> 
 </p>
 
 <p align="center">
