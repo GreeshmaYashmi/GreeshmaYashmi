@@ -3,6 +3,13 @@
 <p align="center">  
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20enthusiast,%20ML%20obsessed%20🔮;Diving%20deep%20into%20data%20and%20defense%20🔍;Turning%20algorithms%20into%20fortresses%20🛡️;&center=true&width=570&height=45&color=F8F8FF" /> 
 </p>
+<p align="center">  
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20enthusiast,%20ML%20dreamer%20🔮;Diving%20deep%20into%20data%20and%20defense%20🔍;Turning%20algorithms%20into%20fortresses%20🛡️;&center=true&width=570&height=45&color=F8F8FF" alt="Typing SVG">
+</p>
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/greeshma-yashmi-5656a5290/">
