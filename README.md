@@ -1,12 +1,7 @@
-
-<!---
-GreeshmaYashmi/GreeshmaYashmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm GREESHMA YASHMI </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%20by%20day,%20defender%20by%20night%20🕵️‍♂️;Exploring%20the%20dark%20corners%20of%20the%20web%20🕸️;Transforming%20vulnerabilities%20into%20strengths%20🛠️;&center=true&width=570&height=45" />
+<p align="center">  
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity%20enthusiast,%20ML%20obsessed%20👩‍💻;Diving%20deep%20into%20data%20and%20defense%20🔍;Turning%20algorithms%20into%20fortresses%20🛡️;&center=true&width=570&height=45" /> 
 </p>
 
 <p align="center">
