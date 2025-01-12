@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/greeshma-yashmi-5656a5290/">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/_jejo_j">
+  <a href="https://www.instagram.com/_.yashmi._">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -24,11 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🏫 I'm studying in SKCT'2027 , India.
 
-- 🎓 I'm in B.E Cybersecurity 2nd year.
+- 🎓 I'm in B.E AIML 2nd year.
 
-- 🌱 I’m currently working on Docking & Blockchain
-
-- 📫 How to reach me [**jejo205713@gmail.com**](mailto:jejo205713@gmail.com)
+- 🌱 I’m currently working on Cybersecurity and Machine Learning
 
 ---
 # 💻 Tech Stack:
